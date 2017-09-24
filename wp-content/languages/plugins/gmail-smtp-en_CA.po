@@ -1,0 +1,249 @@
+# Translation of Plugins - Gmail SMTP - Stable (latest release) in English (Canada)
+# This file is distributed under the same license as the Plugins - Gmail SMTP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-23 20:25:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_CA\n"
+"Project-Id-Version: Plugins - Gmail SMTP - Stable (latest release)\n"
+
+#. Author of the plugin/theme
+msgid "naa986"
+msgstr "naa986"
+
+#. Description of the plugin/theme
+msgid "Easily send email from your WordPress site via Gmail SMTP server"
+msgstr "Easily send email from your WordPress site via Gmail SMTP server"
+
+#. #-#-#-#-#  tmp-gmail-smtp.pot (Gmail SMTP 1.1.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-gmail-smtp.pot (Gmail SMTP 1.1.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://wphowto.net/"
+msgstr "http://wphowto.net/"
+
+#: main.php:542
+msgid "Gmail SMTP plugin cannot send email until you enter your credentials in the settings and grant access to your web application."
+msgstr "Gmail SMTP plugin cannot send email until you enter your credentials in the settings and grant access to your web application."
+
+#: main.php:483
+msgid "Grant Permission"
+msgstr "Grant Permission"
+
+#: main.php:477
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: main.php:470
+msgid "As of PHP 5.6 you will get a warning/error if the SSL certificate on the server is not properly configured. You can check this option to disable that default behaviour. Please note that PHP 5.6 made this change for a good reason. So you should get your host to fix the SSL configurations instead of bypassing it"
+msgstr "As of PHP 5.6 you will get a warning/error if the SSL certificate on the server is not properly configured. You can check this option to disable that default behaviour. Please note that PHP 5.6 made this change for a good reason. So you should get your host to fix the SSL configurations instead of bypassing it"
+
+#: main.php:468
+msgid "Disable SSL Certificate Verification"
+msgstr "Disable SSL Certificate Verification"
+
+#: main.php:464
+msgid "The port which will be used when sending an email. If you choose TLS it should be set to 587. For SSL use port 465 instead."
+msgstr "The port which will be used when sending an email. If you choose TLS it should be set to 587. For SSL use port 465 instead."
+
+#: main.php:462
+msgid "SMTP Port"
+msgstr "SMTP Port"
+
+#: main.php:457
+msgid "The encryption which will be used when sending an email (TLS is recommended)."
+msgstr "The encryption which will be used when sending an email (TLS is recommended)."
+
+#: main.php:455
+msgid "SSL"
+msgstr "SSL"
+
+#: main.php:454
+msgid "TLS"
+msgstr "TLS"
+
+#: main.php:451
+msgid "Type of Encryption"
+msgstr "Type of Encryption"
+
+#: main.php:447
+msgid "The name which will be used as the From Name when sending an email."
+msgstr "The name which will be used as the From Name when sending an email."
+
+#: main.php:445
+msgid "From Name"
+msgstr "From Name"
+
+#: main.php:441
+msgid "The email address which will be used as the From Address when sending an email."
+msgstr "The email address which will be used as the From Address when sending an email."
+
+#: main.php:439
+msgid "From Email Address"
+msgstr "From Email Address"
+
+#: main.php:435
+msgid "The email address that you will use for SMTP authentication. This should be the same email used in the Google Developers Console."
+msgstr "The email address that you will use for SMTP authentication. This should be the same email used in the Google Developers Console."
+
+#: main.php:433
+msgid "OAuth Email Address"
+msgstr "OAuth Email Address"
+
+#: main.php:429
+msgid "The client secret of your web application"
+msgstr "The client secret of your web application"
+
+#: main.php:427
+msgid "Client Secret"
+msgstr "Client Secret"
+
+#: main.php:423
+msgid "The client ID of your web application"
+msgstr "The client ID of your web application"
+
+#: main.php:421
+msgid "Client ID"
+msgstr "Client ID"
+
+#: main.php:417
+msgid "Copy this URL into your web application"
+msgstr "Copy this URL into your web application"
+
+#: main.php:415
+msgid "Authorized Redirect URI"
+msgstr "Authorized Redirect URI"
+
+#: main.php:410
+msgid "Not Connected"
+msgstr "Not Connected"
+
+#: main.php:406
+msgid "Connected"
+msgstr "Connected"
+
+#: main.php:403
+msgid "SMTP Status"
+msgstr "SMTP Status"
+
+#: main.php:391
+msgid "Now you can authorize your app to access the Gmail API by clicking on the Grant Permission button."
+msgstr "Now you can authorize your app to access the Gmail API by clicking on the Grant Permission button."
+
+#: main.php:390
+msgid "Save the settings."
+msgstr "Save the settings."
+
+#: main.php:389
+msgid "Enter a port number."
+msgstr "Enter a port number."
+
+#: main.php:388
+msgid "Select an encryption."
+msgstr "Select an encryption."
+
+#: main.php:387
+msgid "Enter your OAuth Email, From Email and From name."
+msgstr "Enter your OAuth Email, From Email and From name."
+
+#: main.php:386
+msgid "Once the application is created it will generate a client ID and client secret. Copy them into the fields here."
+msgstr "Once the application is created it will generate a client ID and client secret. Copy them into the fields here."
+
+#: main.php:383
+msgid "Basic Setup Instructions"
+msgstr "Basic Setup Instructions"
+
+#: main.php:379
+msgid "Create a new <a target=\"_blank\" href=\"%s\">web application</a> and set its Authorized Redirect URL to the one shown on this page."
+msgstr "Create a new <a target=\"_blank\" href=\"%s\">web application</a> and set its Authorized Redirect URL to the one shown on this page."
+
+#: main.php:356
+msgid "Access could not be granted"
+msgstr "Access could not be granted"
+
+#: main.php:351
+msgid "Access Granted Successfully!"
+msgstr "Access Granted Successfully!"
+
+#: main.php:344
+msgid "Settings Saved!"
+msgstr "Settings Saved!"
+
+#: main.php:231
+msgid "Delete your existing access key by clicking on the \"Delete Access Key\" button."
+msgstr "Delete your existing access key by clicking on the \"Delete Access Key\" button."
+
+#: main.php:228
+msgid "Generally you do not need to do anything on this page. However, for some reason if you wish to revoke access from your application please follow these steps:"
+msgstr "Generally you do not need to do anything on this page. However, for some reason if you wish to revoke access from your application please follow these steps:"
+
+#: main.php:224
+msgid "Revoke access by visiting <a target=\"_blank\" href=\"%s\">account settings</a>."
+msgstr "Revoke access by visiting <a target=\"_blank\" href=\"%s\">account settings</a>."
+
+#: main.php:220
+msgid "Access Key Successfully Deleted!"
+msgstr "Access Key Successfully Deleted!"
+
+#: main.php:203
+msgid "Send Email"
+msgstr "Send Email"
+
+#: main.php:196
+msgid "Email body"
+msgstr "Email body"
+
+#: main.php:194
+msgid "Message"
+msgstr "Message"
+
+#: main.php:190
+msgid "Subject of the email"
+msgstr "Subject of the email"
+
+#: main.php:188
+msgid "Subject"
+msgstr "Subject"
+
+#: main.php:184
+msgid "Email address of the recipient"
+msgstr "Email address of the recipient"
+
+#: main.php:182
+msgid "To"
+msgstr "To"
+
+#: main.php:87
+msgid "Please visit the <a target=\"_blank\" href=\"%s\">Gmail SMTP</a> documentation page for usage instructions."
+msgstr "Please visit the <a target=\"_blank\" href=\"%s\">Gmail SMTP</a> documentation page for usage instructions."
+
+#: main.php:84
+msgid "Server Info"
+msgstr "Server Info"
+
+#: main.php:83
+msgid "Revoke Access"
+msgstr "Revoke Access"
+
+#: main.php:82
+msgid "Test Email"
+msgstr "Test Email"
+
+#: main.php:81
+msgid "General"
+msgstr "General"
+
+#. #-#-#-#-#  tmp-gmail-smtp.pot (Gmail SMTP 1.1.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: main.php:76
+msgid "Gmail SMTP"
+msgstr "Gmail SMTP"
+
+#: main.php:70
+msgid "Settings"
+msgstr "Settings"
